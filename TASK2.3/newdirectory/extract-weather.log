@@ -1,0 +1,18 @@
+2021-06-29 12:27:50,051 - INFO - Configuration of logging is finished.
+2021-06-29 12:27:50,053 - INFO - Process stations requested in configuration file.
+2021-06-29 12:27:50,053 - INFO - Requesting data for: SN99765
+2021-06-29 12:27:50,053 - INFO - Retrieving station metadata for station: SN99765
+2021-06-29 12:27:52,774 - INFO - Retrieving variables metadata for station: SN99765
+2021-06-29 12:27:53,050 - INFO - Retrieving data for station: SN99765
+2021-06-30 12:40:45,446 - INFO - Configuration of logging is finished.
+2021-06-30 12:40:45,449 - INFO - Process stations requested in configuration file.
+2021-06-30 12:40:45,449 - INFO - Requesting data for: SN99765
+2021-06-30 12:40:45,450 - INFO - Retrieving station metadata for station: SN99765
+2021-06-30 12:40:48,937 - INFO - Retrieving variables metadata for station: SN99765
+2021-06-30 12:40:49,176 - INFO - Retrieving data for station: SN99765
+2021-06-30 12:41:22,731 - INFO - Configuration of logging is finished.
+2021-06-30 12:41:22,732 - INFO - Process stations requested in configuration file.
+2021-06-30 12:41:22,732 - INFO - Requesting data for: SN99765
+2021-06-30 12:41:22,733 - INFO - Retrieving station metadata for station: SN99765
+2021-06-30 12:41:25,524 - INFO - Retrieving variables metadata for station: SN99765
+2021-06-30 12:41:26,282 - INFO - Retrieving data for station: SN99765

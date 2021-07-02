@@ -1,0 +1,646 @@
+2021-06-29 13:16:28,675 - INFO - Configuration of logging is finished.
+2021-06-29 13:16:28,676 - INFO - Process stations requested in configuration file.
+2021-06-29 13:16:28,676 - INFO - Requesting data for: SN97710
+2021-06-29 13:16:28,676 - INFO - Retrieving station metadata for station: SN97710
+2021-06-29 13:17:44,323 - INFO - Configuration of logging is finished.
+2021-06-29 13:17:44,323 - INFO - Process stations requested in configuration file.
+2021-06-29 13:24:03,686 - INFO - Configuration of logging is finished.
+2021-06-29 13:24:03,687 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 13:24:03,687 - ERROR - Something went wrong extracting metadata.
+2021-06-29 13:24:03,688 - WARNING - Couldn't get the list of ships in data storage.
+2021-06-29 13:40:24,499 - INFO - Configuration of logging is finished.
+2021-06-29 13:40:24,500 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 13:40:24,500 - ERROR - Something went wrong extracting metadata.
+2021-06-29 13:40:24,501 - WARNING - Couldn't get the list of ships in data storage.
+2021-06-29 13:43:09,940 - INFO - Configuration of logging is finished.
+2021-06-29 13:43:09,940 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 13:43:09,941 - ERROR - Something went wrong extracting metadata.
+2021-06-29 13:43:09,941 - WARNING - Couldn't get the list of ships in data storage.
+2021-06-29 13:43:47,156 - INFO - Configuration of logging is finished.
+2021-06-29 13:43:47,156 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 13:43:47,156 - INFO - Processing ships from the list.
+2021-06-29 13:48:25,273 - INFO - Configuration of logging is finished.
+2021-06-29 13:48:25,274 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 13:48:25,274 - INFO - Processing ships from the list.
+2021-06-29 13:48:49,577 - INFO - Configuration of logging is finished.
+2021-06-29 13:48:49,578 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 13:48:49,578 - ERROR - Something went wrong extracting metadata.
+2021-06-29 13:48:49,579 - WARNING - Couldn't get the list of ships in data storage.
+2021-06-29 14:03:53,429 - INFO - Configuration of logging is finished.
+2021-06-29 14:03:53,430 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 14:03:53,430 - ERROR - Something went wrong extracting metadata.
+2021-06-29 14:03:53,431 - WARNING - Couldn't get the list of ships in data storage.
+2021-06-29 14:05:12,605 - INFO - Configuration of logging is finished.
+2021-06-29 14:05:12,606 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 14:05:12,606 - ERROR - Something went wrong extracting metadata.
+2021-06-29 14:05:12,607 - WARNING - Couldn't get the list of ships in data storage.
+2021-06-29 15:03:30,930 - INFO - Configuration of logging is finished.
+2021-06-29 15:03:30,932 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:03:34,342 - INFO - Processing ships from the list.
+2021-06-29 15:03:34,342 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:03:34,342 - ERROR - Something went horrible wrong here.
+2021-06-29 15:03:51,669 - INFO - Configuration of logging is finished.
+2021-06-29 15:03:51,669 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:03:54,603 - INFO - Processing ships from the list.
+2021-06-29 15:03:54,604 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:03:54,604 - ERROR - Something went horrible wrong here.
+2021-06-29 15:04:40,869 - INFO - Configuration of logging is finished.
+2021-06-29 15:04:40,869 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:04:43,785 - INFO - Processing ships from the list.
+2021-06-29 15:04:43,785 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:04:43,785 - ERROR - Something went horrible wrong here.
+2021-06-29 15:06:43,869 - INFO - Configuration of logging is finished.
+2021-06-29 15:06:43,870 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:06:43,871 - ERROR - Something went wrong extracting metadata.
+2021-06-29 15:06:43,871 - WARNING - Couldn't get the list of ships in data storage.
+2021-06-29 15:06:56,874 - INFO - Configuration of logging is finished.
+2021-06-29 15:06:56,875 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:06:59,519 - INFO - Processing ships from the list.
+2021-06-29 15:06:59,519 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:06:59,519 - ERROR - Something went horrible wrong here.
+2021-06-29 15:11:38,458 - INFO - Configuration of logging is finished.
+2021-06-29 15:11:38,460 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:11:41,239 - INFO - Processing ships from the list.
+2021-06-29 15:11:41,239 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:11:41,239 - ERROR - Something went horrible wrong here.
+2021-06-29 15:13:07,946 - INFO - Configuration of logging is finished.
+2021-06-29 15:13:07,947 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:13:10,674 - INFO - Processing ships from the list.
+2021-06-29 15:13:10,675 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:13:10,675 - ERROR - Something went horrible wrong here.
+2021-06-29 15:13:43,860 - INFO - Configuration of logging is finished.
+2021-06-29 15:13:43,861 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:13:46,670 - INFO - Processing ships from the list.
+2021-06-29 15:13:46,672 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:13:46,672 - ERROR - Something went horrible wrong here.
+2021-06-29 15:13:46,673 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:13:46,673 - ERROR - Something went horrible wrong here.
+2021-06-29 15:13:46,673 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:13:46,673 - ERROR - Something went horrible wrong here.
+2021-06-29 15:13:46,673 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:13:46,674 - ERROR - Something went horrible wrong here.
+2021-06-29 15:13:46,674 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:13:46,674 - ERROR - Something went horrible wrong here.
+2021-06-29 15:13:46,674 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:13:46,674 - ERROR - Something went horrible wrong here.
+2021-06-29 15:13:46,674 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:13:46,674 - ERROR - Something went horrible wrong here.
+2021-06-29 15:13:46,674 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:13:46,675 - ERROR - Something went horrible wrong here.
+2021-06-29 15:14:17,067 - INFO - Configuration of logging is finished.
+2021-06-29 15:14:17,067 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:14:19,661 - INFO - Processing ships from the list.
+2021-06-29 15:14:19,662 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:14:19,662 - ERROR - Something went horrible wrong here.
+2021-06-29 15:14:19,662 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:14:19,662 - ERROR - Something went horrible wrong here.
+2021-06-29 15:14:19,662 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:14:19,663 - ERROR - Something went horrible wrong here.
+2021-06-29 15:14:19,663 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:14:19,663 - ERROR - Something went horrible wrong here.
+2021-06-29 15:14:19,663 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:14:19,663 - ERROR - Something went horrible wrong here.
+2021-06-29 15:14:19,664 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:14:19,664 - ERROR - Something went horrible wrong here.
+2021-06-29 15:14:19,664 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:14:19,664 - ERROR - Something went horrible wrong here.
+2021-06-29 15:14:19,665 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:14:19,665 - ERROR - Something went horrible wrong here.
+2021-06-29 15:15:43,297 - INFO - Configuration of logging is finished.
+2021-06-29 15:15:43,297 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:15:46,160 - INFO - Processing ships from the list.
+2021-06-29 15:15:46,160 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:15:46,161 - ERROR - Something went horrible wrong here.
+2021-06-29 15:15:46,161 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:15:46,161 - ERROR - Something went horrible wrong here.
+2021-06-29 15:15:46,161 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:15:46,161 - ERROR - Something went horrible wrong here.
+2021-06-29 15:15:46,161 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:15:46,161 - ERROR - Something went horrible wrong here.
+2021-06-29 15:15:46,161 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:15:46,161 - ERROR - Something went horrible wrong here.
+2021-06-29 15:15:46,161 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:15:46,161 - ERROR - Something went horrible wrong here.
+2021-06-29 15:15:46,162 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:15:46,162 - ERROR - Something went horrible wrong here.
+2021-06-29 15:15:46,162 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:15:46,162 - ERROR - Something went horrible wrong here.
+2021-06-29 15:16:38,035 - INFO - Configuration of logging is finished.
+2021-06-29 15:16:38,036 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:16:40,749 - INFO - Processing ships from the list.
+2021-06-29 15:17:05,625 - INFO - Configuration of logging is finished.
+2021-06-29 15:17:05,626 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:17:08,498 - INFO - Processing ships from the list.
+2021-06-29 15:17:25,310 - INFO - Configuration of logging is finished.
+2021-06-29 15:17:25,311 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:17:28,153 - INFO - Processing ships from the list.
+2021-06-29 15:17:28,153 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:17:28,153 - INFO - Retrieving metadata for station: SN77007
+2021-06-29 15:17:30,840 - ERROR - Something went horrible wrong here.
+2021-06-29 15:17:30,840 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:17:30,840 - INFO - Retrieving metadata for station: SN77001
+2021-06-29 15:17:33,482 - ERROR - Something went horrible wrong here.
+2021-06-29 15:17:33,483 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:17:33,483 - INFO - Retrieving metadata for station: SN20930
+2021-06-29 15:17:36,132 - ERROR - Something went horrible wrong here.
+2021-06-29 15:17:36,133 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:17:36,133 - INFO - Retrieving metadata for station: SN77006
+2021-06-29 15:17:38,997 - ERROR - Something went horrible wrong here.
+2021-06-29 15:17:38,998 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:17:38,998 - INFO - Retrieving metadata for station: SN77000
+2021-06-29 15:17:41,661 - ERROR - Something went horrible wrong here.
+2021-06-29 15:17:41,662 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:17:41,662 - INFO - Retrieving metadata for station: SN77035
+2021-06-29 15:17:44,426 - ERROR - Something went horrible wrong here.
+2021-06-29 15:17:44,426 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:17:44,426 - INFO - Retrieving metadata for station: SN77005
+2021-06-29 15:17:47,394 - ERROR - Something went horrible wrong here.
+2021-06-29 15:17:47,394 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:17:47,395 - INFO - Retrieving metadata for station: SN20931
+2021-06-29 15:17:49,918 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:08,067 - INFO - Configuration of logging is finished.
+2021-06-29 15:18:08,068 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:18:10,750 - INFO - Processing ships from the list.
+2021-06-29 15:18:10,750 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:18:10,750 - INFO - Retrieving metadata for station: SN77007
+2021-06-29 15:18:13,403 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:13,404 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:18:13,404 - INFO - Retrieving metadata for station: SN77001
+2021-06-29 15:18:16,032 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:16,032 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:18:16,033 - INFO - Retrieving metadata for station: SN20930
+2021-06-29 15:18:18,782 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:18,783 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:18:18,783 - INFO - Retrieving metadata for station: SN77006
+2021-06-29 15:18:21,490 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:21,490 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:18:21,490 - INFO - Retrieving metadata for station: SN77000
+2021-06-29 15:18:24,889 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:24,890 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:18:24,890 - INFO - Retrieving metadata for station: SN77035
+2021-06-29 15:18:27,615 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:27,616 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:18:27,616 - INFO - Retrieving metadata for station: SN77005
+2021-06-29 15:18:30,477 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:30,477 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:18:30,478 - INFO - Retrieving metadata for station: SN20931
+2021-06-29 15:18:33,063 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:45,729 - INFO - Configuration of logging is finished.
+2021-06-29 15:18:45,729 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:18:48,424 - INFO - Processing ships from the list.
+2021-06-29 15:18:48,425 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:18:48,425 - INFO - Retrieving metadata for station: SN77007
+2021-06-29 15:18:50,981 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:50,981 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:18:50,982 - INFO - Retrieving metadata for station: SN77001
+2021-06-29 15:18:53,644 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:53,645 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:18:53,645 - INFO - Retrieving metadata for station: SN20930
+2021-06-29 15:18:56,611 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:56,611 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:18:56,612 - INFO - Retrieving metadata for station: SN77006
+2021-06-29 15:18:59,109 - ERROR - Something went horrible wrong here.
+2021-06-29 15:18:59,109 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:18:59,110 - INFO - Retrieving metadata for station: SN77000
+2021-06-29 15:19:01,942 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:01,942 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:19:01,942 - INFO - Retrieving metadata for station: SN77035
+2021-06-29 15:19:04,498 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:04,499 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:19:04,500 - INFO - Retrieving metadata for station: SN77005
+2021-06-29 15:19:07,059 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:07,059 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:19:07,060 - INFO - Retrieving metadata for station: SN20931
+2021-06-29 15:19:09,822 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:29,293 - INFO - Configuration of logging is finished.
+2021-06-29 15:19:29,294 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:19:32,467 - INFO - Processing ships from the list.
+2021-06-29 15:19:32,467 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:19:32,468 - INFO - Retrieving metadata for station: SN77007
+2021-06-29 15:19:35,131 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:35,131 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:19:35,132 - INFO - Retrieving metadata for station: SN77001
+2021-06-29 15:19:37,878 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:37,878 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:19:37,879 - INFO - Retrieving metadata for station: SN20930
+2021-06-29 15:19:40,738 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:40,739 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:19:40,739 - INFO - Retrieving metadata for station: SN77006
+2021-06-29 15:19:43,406 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:43,406 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:19:43,406 - INFO - Retrieving metadata for station: SN77000
+2021-06-29 15:19:46,686 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:46,687 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:19:46,687 - INFO - Retrieving metadata for station: SN77035
+2021-06-29 15:19:49,347 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:49,347 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:19:49,347 - INFO - Retrieving metadata for station: SN77005
+2021-06-29 15:19:52,620 - ERROR - Something went horrible wrong here.
+2021-06-29 15:19:52,622 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:19:52,622 - INFO - Retrieving metadata for station: SN20931
+2021-06-29 15:19:55,701 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:15,515 - INFO - Configuration of logging is finished.
+2021-06-29 15:26:15,517 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:26:18,355 - INFO - Processing ships from the list.
+2021-06-29 15:26:18,355 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:26:18,356 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:18,356 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:18,357 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:26:18,357 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:18,357 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:18,358 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:26:18,358 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:18,358 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:18,358 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:26:18,358 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:18,359 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:18,359 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:26:18,360 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:18,360 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:18,360 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:26:18,361 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:18,361 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:18,361 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:26:18,362 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:18,362 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:18,362 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:26:18,363 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:18,363 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:42,362 - INFO - Configuration of logging is finished.
+2021-06-29 15:26:42,364 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:26:45,082 - INFO - Processing ships from the list.
+2021-06-29 15:26:45,082 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:26:45,082 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:45,083 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:45,083 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:26:45,083 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:45,084 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:45,084 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:26:45,085 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:45,085 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:45,085 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:26:45,085 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:45,086 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:45,086 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:26:45,086 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:45,087 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:45,087 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:26:45,087 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:45,087 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:45,087 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:26:45,087 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:45,088 - ERROR - Something went horrible wrong here.
+2021-06-29 15:26:45,088 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:26:45,088 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:26:45,088 - ERROR - Something went horrible wrong here.
+2021-06-29 15:29:43,792 - INFO - Configuration of logging is finished.
+2021-06-29 15:29:43,794 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:29:46,403 - INFO - Processing ships from the list.
+2021-06-29 15:29:46,403 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:29:46,404 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:29:49,690 - ERROR - Something went horrible wrong here.
+2021-06-29 15:29:49,691 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:29:49,691 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:29:52,251 - ERROR - Something went horrible wrong here.
+2021-06-29 15:29:52,251 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:29:52,252 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:29:55,230 - ERROR - Something went horrible wrong here.
+2021-06-29 15:29:55,230 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:29:55,230 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:29:58,188 - ERROR - Something went horrible wrong here.
+2021-06-29 15:29:58,188 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:29:58,188 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:30:00,899 - ERROR - Something went horrible wrong here.
+2021-06-29 15:30:00,900 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:30:00,900 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:30:03,690 - ERROR - Something went horrible wrong here.
+2021-06-29 15:30:03,690 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:30:03,690 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:30:06,484 - ERROR - Something went horrible wrong here.
+2021-06-29 15:30:06,484 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:30:06,485 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:30:09,557 - ERROR - Something went horrible wrong here.
+2021-06-29 15:32:00,668 - INFO - Configuration of logging is finished.
+2021-06-29 15:32:00,669 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:32:03,429 - INFO - Processing ships from the list.
+2021-06-29 15:32:03,429 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:32:03,429 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:32:06,070 - ERROR - Something went horrible wrong here.
+2021-06-29 15:32:06,070 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:32:06,071 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:32:09,016 - ERROR - Something went horrible wrong here.
+2021-06-29 15:32:09,016 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:32:09,017 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:32:11,558 - ERROR - Something went horrible wrong here.
+2021-06-29 15:32:11,558 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:32:11,559 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:32:14,375 - ERROR - Something went horrible wrong here.
+2021-06-29 15:32:14,376 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:32:14,376 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:32:17,140 - ERROR - Something went horrible wrong here.
+2021-06-29 15:32:17,141 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:32:17,142 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:32:19,702 - ERROR - Something went horrible wrong here.
+2021-06-29 15:32:19,703 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:32:19,703 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:32:22,362 - ERROR - Something went horrible wrong here.
+2021-06-29 15:32:22,362 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:32:22,363 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:32:25,436 - ERROR - Something went horrible wrong here.
+2021-06-29 15:32:59,064 - INFO - Configuration of logging is finished.
+2021-06-29 15:32:59,065 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:33:02,099 - INFO - Processing ships from the list.
+2021-06-29 15:33:02,100 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:33:02,100 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:33:05,062 - ERROR - Something went horrible wrong here.
+2021-06-29 15:33:05,063 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:33:05,064 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:33:07,654 - ERROR - Something went horrible wrong here.
+2021-06-29 15:33:07,654 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:33:07,655 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:33:10,488 - ERROR - Something went horrible wrong here.
+2021-06-29 15:33:10,489 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:33:10,489 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:33:13,257 - ERROR - Something went horrible wrong here.
+2021-06-29 15:33:13,257 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:33:13,257 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:33:15,916 - ERROR - Something went horrible wrong here.
+2021-06-29 15:33:15,916 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:33:15,916 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:33:19,193 - ERROR - Something went horrible wrong here.
+2021-06-29 15:33:19,194 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:33:19,194 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:33:22,161 - ERROR - Something went horrible wrong here.
+2021-06-29 15:33:22,162 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:33:22,162 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:33:25,335 - ERROR - Something went horrible wrong here.
+2021-06-29 15:33:56,370 - INFO - Configuration of logging is finished.
+2021-06-29 15:33:56,371 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:33:58,940 - INFO - Processing ships from the list.
+2021-06-29 15:33:58,940 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:33:58,940 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:34:01,688 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:01,689 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:34:01,689 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:34:04,762 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:04,762 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:34:04,762 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:34:07,542 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:07,542 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:34:07,542 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:34:10,501 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:10,501 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:34:10,501 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:34:13,054 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:13,054 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:34:13,055 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:34:15,714 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:15,715 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:34:15,715 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:34:18,824 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:18,824 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:34:18,824 - INFO - Retrieving metadata for station: SN97710
+2021-06-29 15:34:21,761 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:28,240 - INFO - Configuration of logging is finished.
+2021-06-29 15:34:28,240 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:34:31,395 - INFO - Processing ships from the list.
+2021-06-29 15:34:31,395 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:34:31,395 - INFO - Retrieving metadata for stationSN77007
+2021-06-29 15:34:33,944 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:33,944 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:34:33,945 - INFO - Retrieving metadata for stationSN77001
+2021-06-29 15:34:36,605 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:36,605 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:34:36,606 - INFO - Retrieving metadata for stationSN20930
+2021-06-29 15:34:39,283 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:39,284 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:34:39,285 - INFO - Retrieving metadata for stationSN77006
+2021-06-29 15:34:42,444 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:42,444 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:34:42,444 - INFO - Retrieving metadata for stationSN77000
+2021-06-29 15:34:45,103 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:45,103 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:34:45,104 - INFO - Retrieving metadata for stationSN77035
+2021-06-29 15:34:47,609 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:47,610 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:34:47,610 - INFO - Retrieving metadata for stationSN77005
+2021-06-29 15:34:50,432 - ERROR - Something went horrible wrong here.
+2021-06-29 15:34:50,435 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:34:50,435 - INFO - Retrieving metadata for stationSN20931
+2021-06-29 15:34:53,191 - ERROR - Something went horrible wrong here.
+2021-06-29 15:45:47,775 - INFO - Configuration of logging is finished.
+2021-06-29 15:45:47,777 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:45:50,689 - INFO - Processing ships from the list.
+2021-06-29 15:45:50,689 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-06-29 15:45:50,690 - INFO - Retrieving metadata for stationSN77007
+2021-06-29 15:45:50,690 - ERROR - Something went horrible wrong here.
+2021-06-29 15:45:50,690 - INFO - Extracting information for G.O. SARS - SN77001
+2021-06-29 15:45:50,690 - INFO - Retrieving metadata for stationSN77001
+2021-06-29 15:45:50,690 - ERROR - Something went horrible wrong here.
+2021-06-29 15:45:50,690 - INFO - Extracting information for POLARSTERN - SN20930
+2021-06-29 15:45:50,691 - INFO - Retrieving metadata for stationSN20930
+2021-06-29 15:45:50,691 - ERROR - Something went horrible wrong here.
+2021-06-29 15:45:50,691 - INFO - Extracting information for JOHAN HJORT - SN77006
+2021-06-29 15:45:50,691 - INFO - Retrieving metadata for stationSN77006
+2021-06-29 15:45:50,691 - ERROR - Something went horrible wrong here.
+2021-06-29 15:45:50,691 - INFO - Extracting information for POLARBJØRN - SN77000
+2021-06-29 15:45:50,692 - INFO - Retrieving metadata for stationSN77000
+2021-06-29 15:45:50,692 - ERROR - Something went horrible wrong here.
+2021-06-29 15:45:50,692 - INFO - Extracting information for KRONPRINS HAAKON - SN77035
+2021-06-29 15:45:50,692 - INFO - Retrieving metadata for stationSN77035
+2021-06-29 15:45:50,692 - ERROR - Something went horrible wrong here.
+2021-06-29 15:45:50,692 - INFO - Extracting information for FF HELMER HANSSEN - SN77005
+2021-06-29 15:45:50,692 - INFO - Retrieving metadata for stationSN77005
+2021-06-29 15:45:50,693 - ERROR - Something went horrible wrong here.
+2021-06-29 15:45:50,693 - INFO - Extracting information for STATSRAAD LEHMKUHL - SN20931
+2021-06-29 15:45:50,693 - INFO - Retrieving metadata for stationSN20931
+2021-06-29 15:45:50,693 - ERROR - Something went horrible wrong here.
+2021-06-29 15:48:02,699 - INFO - Configuration of logging is finished.
+2021-06-29 15:48:02,700 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:48:05,239 - INFO - Processing ships from the list.
+2021-06-29 15:48:05,239 - INFO - Requesting data for: SN97710
+2021-06-29 15:48:05,240 - INFO - Retrieving metadata for stationSN97710
+2021-06-29 15:50:46,028 - INFO - Configuration of logging is finished.
+2021-06-29 15:50:46,029 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:50:48,557 - INFO - Processing ships from the list.
+2021-06-29 15:50:48,558 - INFO - Requesting data for: SN97710
+2021-06-29 15:50:48,558 - INFO - Retrieving metadata for stationSN97710
+2021-06-29 15:51:34,995 - INFO - Configuration of logging is finished.
+2021-06-29 15:51:34,996 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:51:38,012 - INFO - Processing ships from the list.
+2021-06-29 15:51:38,012 - INFO - Requesting data for: SN97710
+2021-06-29 15:51:38,012 - INFO - Retrieving metadata for stationSN97710
+2021-06-29 15:52:03,425 - INFO - Configuration of logging is finished.
+2021-06-29 15:52:03,426 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:52:06,199 - INFO - Processing ships from the list.
+2021-06-29 15:52:06,199 - INFO - Requesting data for: SN97710
+2021-06-29 15:52:06,199 - INFO - Retrieving metadata for stationSN97710
+2021-06-29 15:52:23,741 - INFO - Configuration of logging is finished.
+2021-06-29 15:52:23,742 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:52:27,366 - INFO - Processing ships from the list.
+2021-06-29 15:52:27,366 - INFO - Requesting data for: SN97710
+2021-06-29 15:52:27,366 - INFO - Retrieving metadata for stationSN97710
+2021-06-29 15:54:38,116 - INFO - Configuration of logging is finished.
+2021-06-29 15:54:38,117 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:54:40,787 - INFO - Processing ships from the list.
+2021-06-29 15:54:53,757 - INFO - Configuration of logging is finished.
+2021-06-29 15:54:53,759 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:54:56,351 - INFO - Processing ships from the list.
+2021-06-29 15:55:08,341 - INFO - Configuration of logging is finished.
+2021-06-29 15:55:08,343 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:55:11,633 - INFO - Processing ships from the list.
+2021-06-29 15:55:30,207 - INFO - Configuration of logging is finished.
+2021-06-29 15:55:30,208 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:55:33,484 - INFO - Processing ships from the list.
+2021-06-29 15:55:33,485 - INFO - Requesting data for: SN97710
+2021-06-29 15:55:33,485 - INFO - Retrieving metadata for stationSN97710
+2021-06-29 15:55:51,249 - INFO - Configuration of logging is finished.
+2021-06-29 15:55:51,250 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:55:54,523 - INFO - Processing ships from the list.
+2021-06-29 15:55:54,523 - INFO - Requesting data for: SN97710
+2021-06-29 15:55:54,524 - INFO - Retrieving metadata for stationSN97710
+2021-06-29 15:56:51,177 - INFO - Configuration of logging is finished.
+2021-06-29 15:56:51,178 - INFO - Retrieve all ships available in the data storage.
+2021-06-29 15:56:53,800 - INFO - Processing ships from the list.
+2021-06-30 10:23:12,053 - INFO - Configuration of logging is finished.
+2021-06-30 10:23:12,055 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:23:15,477 - INFO - Processing ships from the list.
+2021-06-30 10:23:43,210 - INFO - Configuration of logging is finished.
+2021-06-30 10:23:43,211 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:23:45,963 - INFO - Processing ships from the list.
+2021-06-30 10:30:26,022 - INFO - Configuration of logging is finished.
+2021-06-30 10:30:26,023 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:30:28,807 - INFO - Processing ships from the list.
+2021-06-30 10:30:28,808 - INFO - Requesting data for: SN97710
+2021-06-30 10:30:28,808 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 10:32:40,983 - INFO - Configuration of logging is finished.
+2021-06-30 10:32:40,983 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:32:43,717 - INFO - Processing ships from the list.
+2021-06-30 10:32:43,718 - INFO - Requesting data for: SN97710
+2021-06-30 10:32:43,718 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 10:33:20,362 - INFO - Configuration of logging is finished.
+2021-06-30 10:33:20,363 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:33:23,102 - INFO - Processing ships from the list.
+2021-06-30 10:33:23,103 - INFO - Requesting data for: SN97710
+2021-06-30 10:33:23,103 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 10:33:45,760 - INFO - Configuration of logging is finished.
+2021-06-30 10:33:45,761 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:33:48,899 - INFO - Processing ships from the list.
+2021-06-30 10:33:48,899 - INFO - Requesting data for: SN97710
+2021-06-30 10:33:48,900 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 10:35:33,295 - INFO - Configuration of logging is finished.
+2021-06-30 10:35:33,297 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:35:36,279 - INFO - Processing ships from the list.
+2021-06-30 10:35:36,279 - INFO - Requesting data for: SN97710
+2021-06-30 10:35:36,280 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 10:35:56,428 - INFO - Configuration of logging is finished.
+2021-06-30 10:35:56,428 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:35:59,032 - INFO - Processing ships from the list.
+2021-06-30 10:35:59,034 - INFO - Requesting data for: SN97710
+2021-06-30 10:35:59,034 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 10:39:44,503 - INFO - Configuration of logging is finished.
+2021-06-30 10:39:44,504 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:39:47,349 - INFO - Processing ships from the list.
+2021-06-30 10:39:47,351 - INFO - Requesting data for: SN97710
+2021-06-30 10:39:47,351 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 10:40:24,517 - INFO - Configuration of logging is finished.
+2021-06-30 10:40:24,519 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 10:40:27,137 - INFO - Processing ships from the list.
+2021-06-30 10:40:27,138 - INFO - Requesting data for: SN97710
+2021-06-30 10:40:27,138 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 11:24:21,865 - INFO - Configuration of logging is finished.
+2021-06-30 11:24:21,867 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:24:25,080 - INFO - Processing ships from the list.
+2021-06-30 11:26:59,749 - INFO - Configuration of logging is finished.
+2021-06-30 11:26:59,750 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:27:02,476 - INFO - Processing ships from the list.
+2021-06-30 11:28:02,609 - INFO - Configuration of logging is finished.
+2021-06-30 11:28:02,610 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:28:06,077 - INFO - Processing ships from the list.
+2021-06-30 11:29:20,460 - INFO - Configuration of logging is finished.
+2021-06-30 11:29:20,461 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:29:24,207 - INFO - Processing ships from the list.
+2021-06-30 11:30:17,380 - INFO - Configuration of logging is finished.
+2021-06-30 11:30:17,380 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:30:20,392 - INFO - Processing ships from the list.
+2021-06-30 11:31:28,103 - INFO - Configuration of logging is finished.
+2021-06-30 11:31:28,103 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:31:30,892 - INFO - Processing ships from the list.
+2021-06-30 11:31:49,755 - INFO - Configuration of logging is finished.
+2021-06-30 11:31:49,756 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:31:52,825 - INFO - Processing ships from the list.
+2021-06-30 11:32:04,601 - INFO - Configuration of logging is finished.
+2021-06-30 11:32:04,602 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:32:07,448 - INFO - Processing ships from the list.
+2021-06-30 11:32:22,054 - INFO - Configuration of logging is finished.
+2021-06-30 11:32:22,056 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:32:25,176 - INFO - Processing ships from the list.
+2021-06-30 11:32:39,346 - INFO - Configuration of logging is finished.
+2021-06-30 11:32:39,349 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:32:42,540 - INFO - Processing ships from the list.
+2021-06-30 11:33:58,411 - INFO - Configuration of logging is finished.
+2021-06-30 11:33:58,412 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:34:01,816 - INFO - Processing ships from the list.
+2021-06-30 11:37:00,743 - INFO - Configuration of logging is finished.
+2021-06-30 11:37:00,744 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:37:03,341 - INFO - Processing ships from the list.
+2021-06-30 11:37:03,342 - ERROR - Something went horrible wrong here.
+2021-06-30 11:37:44,273 - INFO - Configuration of logging is finished.
+2021-06-30 11:37:44,274 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 11:37:46,889 - INFO - Processing ships from the list.
+2021-06-30 11:37:46,890 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 11:37:46,890 - ERROR - Something went horrible wrong here.
+2021-06-30 12:32:23,472 - INFO - Configuration of logging is finished.
+2021-06-30 12:32:23,473 - INFO - Retrieve all ships available in the data storage.
+2021-06-30 12:32:26,352 - INFO - Processing ships from the list.
+2021-06-30 12:32:26,352 - INFO - Requesting data for: SN97710
+2021-06-30 12:32:26,353 - INFO - Retrieving metadata for stationSN97710
+2021-06-30 12:32:26,353 - ERROR - Something wen horribly wrong here
+2021-07-01 09:48:35,964 - INFO - Configuration of logging is finished.
+2021-07-01 09:48:35,965 - INFO - Retrieve all ships available in the data storage.
+2021-07-01 09:48:38,665 - INFO - Processing ships from the list.
+2021-07-01 09:48:38,665 - INFO - Extracting information for KRISTINE BONNEVIE - SN77007
+2021-07-01 09:48:38,666 - INFO - Retrieving metadata for stationSN97710
+2021-07-01 09:48:38,666 - ERROR - Something went horrible wrong here.
+2021-07-01 09:49:27,827 - INFO - Configuration of logging is finished.
+2021-07-01 09:49:27,828 - INFO - Retrieve all ships available in the data storage.
+2021-07-01 09:49:30,532 - INFO - Processing ships from the list.
+2021-07-01 09:50:26,330 - INFO - Configuration of logging is finished.
+2021-07-01 09:50:26,331 - INFO - Retrieve all ships available in the data storage.
+2021-07-01 09:50:29,012 - INFO - Processing ships from the list.
+2021-07-01 09:50:29,016 - INFO - Requesting data for: SN97710
+2021-07-01 09:50:29,018 - INFO - Retrieving metadata for stationSN97710
+2021-07-01 09:50:29,018 - ERROR - Something wen horribly wrong here
+2021-07-01 09:54:10,098 - INFO - Configuration of logging is finished.
+2021-07-01 09:54:10,099 - INFO - Retrieve all ships available in the data storage.
+2021-07-01 09:54:12,884 - INFO - Processing ships from the list.
+2021-07-01 09:54:12,884 - INFO - Requesting data for: SN97710
+2021-07-01 09:54:12,885 - INFO - Retrieving metadata for stationSN97710
+2021-07-01 09:54:12,885 - ERROR - Something wen horribly wrong here
+2021-07-01 09:56:37,229 - INFO - Configuration of logging is finished.
+2021-07-01 09:56:37,230 - INFO - Retrieve all ships available in the data storage.
+2021-07-01 09:56:40,020 - INFO - Processing ships from the list.
+2021-07-01 09:56:40,021 - INFO - Requesting data for: SN97710
+2021-07-01 09:56:40,021 - INFO - Retrieving metadata for stationSN97710
+2021-07-01 09:56:43,120 - INFO - Retrieving parameters for station: SN97710
+2021-07-01 09:56:43,439 - INFO - Retrieving data for station: SN97710
+2021-07-01 09:56:43,691 - ERROR - Returned status code was 414
+message:
+URI length exceeds the configured limit of 2048 characters
+2021-07-01 09:56:43,692 - ERROR - Something wen horribly wrong here
+2021-07-01 10:02:27,058 - INFO - Configuration of logging is finished.
+2021-07-01 10:02:27,059 - INFO - Retrieve all ships available in the data storage.
+2021-07-01 10:02:29,941 - INFO - Processing ships from the list.
+2021-07-01 10:02:29,941 - INFO - Requesting data for: SN97710
+2021-07-01 10:02:29,942 - INFO - Retrieving metadata for stationSN97710
+2021-07-01 10:02:32,735 - INFO - Retrieving parameters for station: SN97710
+2021-07-01 10:02:33,019 - INFO - Retrieving data for station: SN97710
+2021-07-01 10:03:36,517 - ERROR - Something wen horribly wrong here
+2021-07-01 10:04:58,167 - INFO - Configuration of logging is finished.
+2021-07-01 10:04:58,167 - INFO - Retrieve all ships available in the data storage.
+2021-07-01 10:05:01,389 - INFO - Processing ships from the list.
+2021-07-01 10:05:01,389 - INFO - Requesting data for: SN97710
+2021-07-01 10:05:01,389 - INFO - Retrieving metadata for stationSN97710
+2021-07-01 10:05:04,486 - INFO - Retrieving parameters for station: SN97710
+2021-07-01 10:05:04,876 - INFO - Retrieving data for station: SN97710
+2021-07-01 10:06:15,628 - ERROR - Something wen horribly wrong here
