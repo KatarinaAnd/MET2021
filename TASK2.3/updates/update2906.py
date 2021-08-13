@@ -71,7 +71,6 @@ def check_radiation(vname,ds_station):
     if vname in rad_dict:
         ds_station[rad_dict[vname]] = ds_station[vname]
         ds_station = ds_station.drop(['{}'.format(vname)])
-        print('olivia')
         return rad_dict[vname],ds_station
     else:
         return vname,ds_station
