@@ -161,8 +161,8 @@ def extractdata(frostcfg,station,stmd,output):
     metadata = json.loads(r.text)
 
     # Connect and read metadata about the variables
-    print(frostcfg['timeResolutions'])
-    print(frostcfg['performanceCategories'])
+    # print(frostcfg['timeResolutions'])
+    # print(frostcfg['performanceCategories'])
     mylog.info('Retrieving variables metadata for station: %s', station)
     myrequest = 'sources='+station+'&elements='+','.join(frostcfg['elements'])+'&timeresolutions='+frostcfg['timeResolutions']+'&performancecategories='+frostcfg['performanceCategories']
     try:
@@ -226,32 +226,23 @@ def extractdata(frostcfg,station,stmd,output):
     df['time'] = mytimes
     df = df.set_index('time')
     df = df.rename(columns=lambda x: re.sub('\(-\)','',x))
-    #print(variables['data'])
+   
     elements = frostcfg['elements'][0].split(',')
     elements = [x.rstrip(', ').lstrip(' ').lower() for x in elements]
-    #print(elements)
+    
     df = df[elements].copy()
     df = df.rename(columns=lambda x: re.sub('\(','_',x))
     df = df.rename(columns=lambda x: re.sub(' ','_',x))
     df = df.rename(columns=lambda x: re.sub('\)','',x))
-    print('did it work')
-    #print(df)
+    
+    
     # Create Dataset from Dataframe
     ds_station = xr.Dataset.from_dataframe(df)
     ds_station = xr.Dataset.from_dataframe(df)
     # Specify variable attributes
     ds_station.time.attrs['standard_name'] = 'time'
     ds_station.time.attrs['units'] = 'seconds since 1970-01-01 00:00:00+0'
-#    check_list = []
-#    for item in variables['data']: 
-#        varname = item['elementId'].lower()
-#        if varname in check_list:
-#            print('item exist')
-#        else:
-#            ds_station[varname].attrs['standard_name'] = varname
-#            ds_station[varname].attrs['units'] = item['unit']
-#            ds_station[varname].attrs['performance_category'] = get_performance_category(item['performanceCategory'])
-#            check_list.append(varname)
+
 
     check_list = []
     for item in variables['data']: 
@@ -335,5 +326,4 @@ if __name__ == '__main__':
         try:
             extractdata(cfgstr['frostcfg'], station, content, cfgstr['output'])
         except:
-            print('what even')
             raise SystemExit()
